@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">1D PAL</string>
+
+    <string-array name="Backgrounds">
+        <item>Lake</item>
+        <item>Castle</item>
+        <item>Mountain</item>
+        <item>Village</item>
+    </string-array>
+
+
+
+
+
+</resources>
+

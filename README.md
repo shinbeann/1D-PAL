@@ -6,10 +6,10 @@ Some features include a login page, a character and background selection page, a
 
 <br>
 Tools: 
-Android Studio 
-OpenAI ChatGPT API key
-Stable Diffusion installed and setup
-ComfyUI for Stable Diffusion installed and setup
+Android Studio <br/>
+OpenAI ChatGPT API key <br/>
+Stable Diffusion installed and setup <br/>
+ComfyUI for Stable Diffusion installed and setup <br/>
 
 <br>
 For more details, check out this video! <br>

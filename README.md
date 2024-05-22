@@ -4,6 +4,12 @@ Description:
 Project PAL is a generative AI dating simulator, aimed to tackle the rise of hikikomori in Singapore.
 Some features include a login page, a character and background selection page, and page for real-time interactive dialogues. 
 
+Tools: 
+Android Studio 
+OpenAI ChatGPT API key
+Stable Diffusion installed and setup
+ComfyUI for Stable Diffusion installed and setup
+
 For more details, check out this video! 
 https://www.youtube.com/watch?v=Cuqq4vefbFs
 

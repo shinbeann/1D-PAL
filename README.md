@@ -5,7 +5,7 @@ Project PAL is a generative AI dating simulator, aimed to tackle the rise of hik
 Some features include a login page, a character and background selection page, and page for real-time interactive dialogues. 
 
 <br>
-Tools: 
+Tools: <br/>
 Android Studio <br/>
 OpenAI ChatGPT API key <br/>
 Stable Diffusion installed and setup <br/>

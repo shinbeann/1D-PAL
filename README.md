@@ -1,6 +1,3 @@
 (•‿•)
-MainActivity: RecyclerView of backgrounds //
-SubActivity: Chosen background + Avatar 
+Project PAL (Personalised A.I Lover)
 
-To do:
-update subactivity and link to imageButtom (background)

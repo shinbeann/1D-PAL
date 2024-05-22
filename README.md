@@ -1,5 +1,6 @@
 Project PAL
 
+<br>
 Description:
 Project PAL is a generative AI dating simulator, aimed to tackle the rise of hikikomori in Singapore.
 Some features include a login page, a character and background selection page, and page for real-time interactive dialogues. 
@@ -19,5 +20,5 @@ Amos Sng
 Choo Mei Qi
 Sean Ho
 Joshua John Lee
-Pham Hong Quan
+Pham Hong Quan <br>
 

@@ -1,4 +1,4 @@
-Project PAL
+Project PAL <br/>
 <br>
 Description:
 Project PAL is a generative AI dating simulator, aimed to tackle the rise of hikikomori in Singapore.
@@ -12,9 +12,10 @@ Stable Diffusion installed and setup
 ComfyUI for Stable Diffusion installed and setup
 
 <br>
-For more details, check out this video! 
-https://www.youtube.com/watch?v=Cuqq4vefbFs
+For more details, check out this video! <br>
+https://www.youtube.com/watch?v=Cuqq4vefbFs <br/>
 
+<br/>
 Group 43 (2024)<br/>
 Gay Shin Lee<br/>
 Amos Sng<br/>
